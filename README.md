@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I am Phu Thinh Dang 👋
+<img align="right" src="/giphy.gif">
 
-<!--
-**EricDang261/EricDang261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on macro bot.
+- 🌱 I’m currently learning Python, React and JavaScript.
+- 👯 I’m opened to collaborate on any cool projects that we are interested in.
+- 💬 Ask me about anything. I'm happy to help as best as I can. 
+- 📫 How to reach me: phuthinhdang26@gmai.com
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: I am passion on coding and create cool technology. I tried to learn new thing everyday.
+- ✨ What it's like working with me: 1) Consistent effort in a focused direction. 2) Constant incremental progress 3) Communication
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; flex-direction: row;">
+ <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=EricDang261&show_icons=true&theme=radical" width="400"/>
+ <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDang261&theme=radical&layout=compact" width ="350" />
+</div>
