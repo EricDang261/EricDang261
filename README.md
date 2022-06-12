@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning Python, React and JavaScript.
 - 👯 I’m opened to collaborate on any cool projects that we are interested in.
 - 💬 Ask me about anything. I'm happy to help as best as I can. 
-- 📫 How to reach me: phuthinhdang26@gmai.com
-- 😄 Pronouns: He/him/his
+- 📫 How to reach me: phuthinhdang26@gmail.com
 - ⚡ Fun fact: I am passion on coding and create cool technology. I tried to learn new thing everyday.
 - ✨ What it's like working with me: 1) Consistent effort in a focused direction. 2) Constant incremental progress 3) Communication
 
