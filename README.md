@@ -11,5 +11,5 @@
 
 <div style="display: flex; flex-direction: row;">
  <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=EricDang261&show_icons=true&theme=radical" width="400"/>
- <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDang261&langs_count=10&theme=radical&layout=compact" width ="350" />
+ <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDang261&langs_count=08&theme=radical&layout=compact" width ="350" />
 </div>
